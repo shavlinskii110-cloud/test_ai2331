@@ -6,3 +6,4 @@
 **git add** *filename*. - добавить определенный файл
 **git add.** - добавить все файлы.  
 **git commit** -комитsfsdfsdfsdf
+STAS KRUT
