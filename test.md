@@ -8,3 +8,4 @@
 **git commit** -комитsfsdfsdfsdf
 STAS KRUT
 git branch просмотр веток в реп
+отредачил
